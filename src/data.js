@@ -37,6 +37,19 @@ const products = [
     isBestSeller: true,
     brand: "samsung",
   },
+
+  {
+    id: 3,
+    name: "Samsung s25 Ultra",
+    price: 109999,
+    originalPrice: 120000,
+    discount: "35% off",
+    rating: 4.0,
+    image:
+      "https://media-ik.croma.com/prod/https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/313337_0_fabi1f.png?tr=w-640",
+    isBestSeller: true,
+    brand: "samsung",
+  },
 ];
 
 export default products;
