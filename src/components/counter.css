@@ -1,0 +1,35 @@
+.counter {
+  height: 160px;
+  width: 250px;
+  background-color: cornflowerblue;
+  border: 3px solid transparent;
+  border-radius: 8px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.count {
+  diplay: flex;
+}
+.btn-decrease {
+  background: linear-gradient(135deg, maroon, red) !important;
+  margin: 10px;
+}
+
+.btn-increase {
+  background: linear-gradient(135deg, green, rgb(46, 213, 46)) !important;
+  margin: 10px;
+}
+.btn-reset {
+  background: linear-gradient(135deg, purple, rgb(80, 4, 80)) !important;
+  margin: 10px;
+}
+
+.message {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: bisque;
+  min-height: 30px;
+}
